@@ -1,0 +1,7 @@
+# 報告全文抽取（© 2026 Anthropic PBC）——只留本機做數字與座標核對，不可進 repo
+source/
+__pycache__/
+*.pyc
+.tmp.driveupload/
+# 本機交接筆記，不進公開 repo
+HANDOFF.md
