@@ -629,7 +629,7 @@
       "也有一段值得法律人細讀的政策建議；而它最重要的數字（占比、倍數、相對變化）線性讀一次很容易讀錯意思。</p>" +
       "<h2>報告</h2><p>" + esc(m.authors.join("、")) + "。<span class=\"en\">" + esc(m.title_en) + "</span>。" + esc(m.institution) + "，" + esc(m.doc_type) + "，" + esc(m.date) + "。</p>" +
       '<p class="src-links">' + ext(m.url_web, "原文網頁") + ext(m.url_pdf, "原文 PDF") + "</p>" +
-      "<h2>作者</h2><p>蔡宗穎（Camus Tsai）。台灣 IP 法律人，專利訴訟／SEP-FRAND／AI 工作流。" + ext("https://cecefat.github.io/cv/", "線上履歷") + "。</p>" +
+      "<h2>作者</h2><p>蔡宗穎（Camus Tsai）。台灣 IP 法律人，15 年以上，專利訴訟／SEP-FRAND／AI 工作流。線上履歷：" + ext("https://cecefat.github.io/cv/", "cecefat.github.io/cv") + "。</p>" +
       "<p>這個站的做法：我訂定流程與驗證規則（逐段座標、數字機械核對、讀圖必須標示、不轉載原文），程式、資料整理與分析初稿由 Claude（AI）撰寫。" +
       "Claude 是 Anthropic 的模型，而這份報告是 Anthropic 的出版品——這是利益衝突，見「方法」頁的揭露。</p>" +
       "<h2>同一套做法的其他站</h2><ul>" +
